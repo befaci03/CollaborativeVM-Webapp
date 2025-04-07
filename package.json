@@ -1,0 +1,12 @@
+{
+  "name": "CollaborativeVM-Webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/befaci03/CollaborativeVM-Webapp.git",
+  "author": "Befaci",
+  "license": "The Unlicense",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
